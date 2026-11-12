@@ -1,0 +1,39 @@
+{
+  "locale": "en",
+  "languageName": "English",
+  "navigation": {
+    "home": "Home",
+    "collection": "The Collection",
+    "house": "The House",
+    "contact": "Contact",
+    "privacy": "Privacy"
+  },
+  "home": {
+    "eyebrow": "Maison de parfum",
+    "title": "Nuit Lumière",
+    "description": "Discover a world of fragrance, composed for the quiet beauty of evening.",
+    "exploreCollection": "Explore the collection",
+    "houseCta": "The House of Nuit Lumière"
+  },
+  "collection": {
+    "title": "The Collection",
+    "description": "A considered selection of memorable compositions — from luminous florals to deep woods and amber. Discover the character and story behind each scent."
+  },
+  "about": {
+    "title": "The House of Nuit Lumière",
+    "description": "Nuit Lumière celebrates the quiet beauty of evening through thoughtful compositions and timeless design. Each fragrance is an invitation to slow down, notice the details, and leave a subtle trail of light."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Our customer care details will be published soon. For now, return to the home page or explore the collection."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "description": "This preview site is a demonstration. Before commercial use, the store owner must publish a complete privacy notice describing the data controller, data collected, processing purposes, retention periods, service providers, and users’ rights under applicable law."
+  },
+  "actions": {
+    "playMusic": "Play music",
+    "pauseMusic": "Pause music",
+    "returnHome": "Return home"
+  }
+}
